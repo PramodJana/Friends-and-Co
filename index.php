@@ -68,6 +68,41 @@
        </div>
 
 
+<div class="container">
+<hr>
+<center>
+  <h2>Lets begin our journey together towards our bright future</h2>
+  <h4>Where we will fullfill all our dreams</h4>
+</center>
+<hr>
+<div class="card">
+  <div class="card-body">
+    <center><h3>Want to invest for the future</h3></center>
+    <br>
+    <center><a href="#" class="btn btn-success btn-lg active" role="button" aria-pressed="true">Click me to start investing and brighten your future</a></center>
+
+  </div>
+</div>
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+ <br />
+ <?php
+ include "footer.php";
+ ?>
 
 
 

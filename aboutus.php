@@ -47,16 +47,16 @@
   <div class="card mb-3" >
   <div class="row no-gutters">
     <div class="col-md-4">
-      <img src="img/pramod.JPG" class="card-img" alt="...">
+      <img src="img/cp.jpeg" class="card-img" alt="...">
     </div>
     <div class="col-md-8">
       <div class="card-body">
-        <h2 class="card-title">Pramod Jana</h2>
-        <p class="card-text">He is the developer of this Website<br/>
-                            He is a Co-founder of Friends And Co.<br/>
-                            He is a Full Stack Engineer(Accenture) by Profession<br/>
-                            He is a UX/UI designer too...<br>
-                            He has also developed websites named freshersZone.org, Inaudita.org<br/>
+        <h2 class="card-title">CP Shakya</h2>
+        <p class="card-text">
+          He is a Founder of Friends And Co.<br/>
+          15 years teaching and team management experience.<br/>
+          He has an qualification of Graduation, PG and B.ed.<br>
+          He has been running his own instituation form the past 10 years...<br/>
                           </p>
       </div>
     </div>
@@ -84,6 +84,26 @@
   </div>
 </div>
 
+
+  <br>
+  <div class="card mb-3" >
+  <div class="row no-gutters">
+    <div class="col-md-4">
+      <img src="img/pramod.JPG" class="card-img" alt="...">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h2 class="card-title">Pramod Jana</h2>
+        <p class="card-text">He is the developer of this Website<br/>
+                            He is a Co-founder of Friends And Co.<br/>
+                            He is a Full Stack Engineer(Accenture) by Profession<br/>
+                            He is a UX/UI designer too...<br>
+                            He has also developed websites named freshersZone.org, Inaudita.org<br/>
+                          </p>
+      </div>
+    </div>
+  </div>
+</div>
 
 
 
